@@ -8,3 +8,5 @@ The main reason being that most descriptions of interpretation all assume that t
 shows that this is not always the case.
 
 A connection between the rate of penetration and the measured push resistance was found and a model was created to correct for this effect.
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14833651.svg)](https://doi.org/10.5281/zenodo.14833651)
